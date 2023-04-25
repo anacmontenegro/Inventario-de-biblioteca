@@ -27,9 +27,6 @@ A aplicação se propõe a catalogar informações de uma biblioteca doméstica,
 
 ## Demonstração
 
-### Tela Inicial
-![](https://i.postimg.cc/LXYN3JZJ/Tela-Inicial.jpg)
-
 ### Botão "Ver"
 Mostra a imagem do livro selecionado
 
